@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "activeTheme": "blue",
+  "themes": {
+    "green": {
+      "colors": {
+        "primary": "#0c722a",
+        "accent": "#ffe16d",
+        "onPrimary": "#ffffff",
+        "pageBg": "#edeef0",
+        "surface": "#ffffff",
+        "surfaceMuted": "#f5f7f6",
+        "textPrimary": "#333333",
+        "textSecondary": "#666666",
+        "textMuted": "#999999",
+        "border": "#e6e6e6"
+      },
+      "assets": {},
+      "imageBase": "/themes/green/images"
+    },
+    "blue": {
+      "colors": {
+        "primary": "#2563eb",
+        "accent": "#ffffff",
+        "onPrimary": "#ffffff",
+        "pageBg": "#eff4fb",
+        "surface": "#ffffff",
+        "surfaceMuted": "#f5f8ff",
+        "textPrimary": "#253047",
+        "textSecondary": "#526078",
+        "textMuted": "#8390a4",
+        "border": "#dce4f0",
+        "onAccent": "#172554"
+      },
+      "assets": {},
+      "imageBase": "/themes/blue/images"
+    },
+    "orange": {
+      "colors": {
+        "primary": "#f68300",
+        "accent": "#ffd166",
+        "onPrimary": "#ffffff",
+        "pageBg": "#f5f3f0",
+        "surface": "#ffffff",
+        "surfaceMuted": "#fff8ef",
+        "textPrimary": "#33291f",
+        "textSecondary": "#6f6255",
+        "textMuted": "#9b8d80",
+        "border": "#eadfd2",
+        "onAccent": "#422006"
+      },
+      "assets": {},
+      "imageBase": "/themes/orange/images"
+    },
+    "purple": {
+      "colors": {
+        "primary": "#7c3aed",
+        "accent": "#fcd34d",
+        "onPrimary": "#ffffff",
+        "pageBg": "#f4f0fb",
+        "surface": "#ffffff",
+        "surfaceMuted": "#faf7ff",
+        "textPrimary": "#302447",
+        "textSecondary": "#675779",
+        "textMuted": "#94859f",
+        "border": "#e6dcf2",
+        "onAccent": "#2e1065"
+      },
+      "assets": {},
+      "imageBase": "/themes/purple/images"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+import{ay as t}from"index-CYNitucf.js";function a(r){return t({url:"/system/partnerReport/myReport",method:"get",params:r})}function o(r){return t({url:"/system/partnerReport/mySubordinates",method:"get",params:r})}export{o as a,a as g};
